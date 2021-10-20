@@ -1,0 +1,10 @@
+# 環境関係
+/.venv_tf1/
+/.venv_tf2/
+/.venv_cuda/
+
+# notebook形式
+/**/.ipynb
+
+# テストで出力した画像はいらない
+/output/test/
